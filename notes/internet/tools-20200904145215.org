@@ -1,32 +1,32 @@
-#+title: Internet Tools
+* Internet Tools
 
-* General
-** Diagram
-*** 脑图工具：GitMind https://gitmind.cn/
+** General
+*** Diagram
+**** 脑图工具：GitMind https://gitmind.cn/
 工作中少不了要做脑图，这个网站就是一个完全免费的脑图制作网站，操作易懂，非常好上手，绝对是一个让你相见恨晚的网站。
 
-* Utilities Tool 
-** Website Development
-*** 懒人抠图神器: https://bgeraser.com/index.html
+** Utilities Tool 
+*** Website Development
+**** 懒人抠图神器: https://bgeraser.com/index.html
 BgEraser 是一个可以在线自动抠图的网站，使用方法很简单，上传想要抠图的图片，稍微等个十几秒，就自动完成抠图，保存到本地即可。
 
-*** 设计师导航：图翼 http://www.tuyiyi.com/hao/
+**** 设计师导航：图翼 http://www.tuyiyi.com/hao/
 这个可谓是设计师必备的网站，这个网站收录了各类实用的网站，像什么免费商用字体、渐变色方案、矢量图标库、无版权高清图库等网站都有，对于设计师来说就是个宝藏！
 另外，左侧导航栏还贴心的分好了类目，想要什么都能快速找到，好用到爆！
 
-*** 小白做图神器：创客贴 https://www.chuangkit.com/designtools/designindex
+**** 小白做图神器：创客贴 https://www.chuangkit.com/designtools/designindex
 我用的最多的做图网站就是这个了，简单来说就是为小白设计的，海量模板大部分都是免费的，想要做什么类型的图，直接找到模板，替换素材，修改文字即可搞定！
 
-*** 在线 PS 工具：稿定设计 https://www.uupoop.com/
+**** 在线 PS 工具：稿定设计 https://www.uupoop.com/
 有时候临时要做一些图片却没又安装 PS，可以试试这个在线 PS 的工具，界面和操作和 PS 一模一样，功能也非常完备。
 
-*** 免费 PNG 素材网：StickPNG https://www.stickpng.com/
+**** 免费 PNG 素材网：StickPNG https://www.stickpng.com/
 这是一个专门做 PNG 素材的网站，里面全都是高清免费的 PNG 素材，素材丰富且质量非常不错。 在这里插入图片描述 而且很多素材都是网络热门类的，拿来做表情包或者 P 个图片简直不要太好用👇
 
-*** 在线 PDF 转换工具：Easy PDF https://easypdf.com/cn
+**** 在线 PDF 转换工具：Easy PDF https://easypdf.com/cn
 超级实用！！！无论是 PDF 转 word 、ppt 、excel 还是 word 、jpg 转至 PDF 都能轻松实现，重点是完全免费👇
 
-* Programming
-** Program learning 
-*** 在线编程训练网站：Lintcode https://www.lintcode.com
+** Programming
+*** Online learning 
+**** 在线编程训练网站：Lintcode https://www.lintcode.com
 这个网站简单来说就是程序员刷题网站，里面的算法题和数据结构按照难度和类别进行了细分，对于想要提升自己或者求职面试的程序员来说，用它来刷题非常方便。

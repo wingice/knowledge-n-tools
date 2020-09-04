@@ -1,1 +1,14 @@
 .DS_Store
+org-roam.db
+
+# Emacs
+*~
+\#*\#
+
+tramp
+.\#*
+
+# Org-mode
+.org-id-locations
+*_archive
+

@@ -1,16 +1,18 @@
-My Personal Computer tools and shortcuts
-========================================
+Knowledge, Notes and Tools, everything about IT
+===============================================
 
 General
 -------
-Main editor: emacs
-
-Windows
--------
-Use scoop to manage tools
+My Notes: 
 
 
-MacOSX
-------
-Use brew to manage tools
+
+
+
+
+My computer setups:
+------------------
+- Main editor: emacs
+- Use scoop to manage windows software
+- Use brew to manage macos software
 

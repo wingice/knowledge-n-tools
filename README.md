@@ -4,7 +4,8 @@ Knowledge, Notes and Tools, everything about IT
 General
 -------
 My Notes: 
-
+	
+	[Internet Tools](notes/internet/tools-20200904145215.org)
 
 
 

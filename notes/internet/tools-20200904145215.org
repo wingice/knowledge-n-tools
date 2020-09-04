@@ -1,4 +1,4 @@
-#+title: "internet tools"
+#+title: Internet Tools
 
 * General
 ** Diagram

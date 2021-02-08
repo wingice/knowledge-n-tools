@@ -6,7 +6,7 @@ General
 My Notes: 
 - [Developer Career]
 - [Internet Tools](notes/internet/tools-20200904145215.org)
-
+- [My note index](notes/org-roam-note-index.org)
 
 
 My computer setups:

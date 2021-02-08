@@ -1,0 +1,12 @@
+Note Index
+=========
+
+* Work 
+** [[file:research/java_interviewer_questions-20210208103531.org][Java interviewer questions]]
+
+* Internet Tools 
+** [[file:internet/tools-20200904145215.org][Diagram and Website Design Tools]]
+
+* Life
+** [[file:general/what_is_worth_buying-20200922130538.org][What is worth buying]]
+

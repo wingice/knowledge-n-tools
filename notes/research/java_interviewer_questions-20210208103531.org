@@ -1,0 +1,36 @@
+#+title: Java interviewer questions
+
+* Java interview questions as an interviewer
+** ORM
+*** Hibernate vs Mybatis, 
+*** Special attentions when modeling two-way associations
+
+** Basic knowledges
+*** When to override equals and hashcode, how to implement them manually
+*** String/StringBuilder/StringBuffer
+*** Collection Utils, When to use and how to choose?
+*** B-tree and Red-black tree
+*** NIO vs AIO vs BIO
+** Concurrency
+*** Process vs thread
+*** what does 'thread safe' mean?
+*** How to thread-safe?
+*** How to schedule threads?   Consumer and producer model?
+*** CAS
+*** Dead Lock
+*** Database isolation levels
+
+** Frameworks
+*** Why use spring, what are the benefits?
+*** Filter vs Interceptor
+
+
+** Programming exercises
+*** Revert a string
+*** Output top 3 maximum occuring characters in an input string
+*** Output the longest substring with consecutive characters
+
+
+
+
+

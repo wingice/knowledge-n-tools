@@ -3,7 +3,8 @@
 Internet Tools
 ==============
 
-* General
+* Internet Tools
+** General
 *** Diagram
 **** 脑图工具：GitMind https://gitmind.cn/
 工作中少不了要做脑图，这个网站就是一个完全免费的脑图制作网站，操作易懂，非常好上手，绝对是一个让你相见恨晚的网站。

@@ -1,0 +1,13 @@
+#+title: NoteIndex
+
+* Knowledge build-up
+** Development 
+*** Programming model
+**** [[file:research/sap_cloud_application_programming_model-20201202153929.org][SAP Cloud Application Programming Model]]
+
+*** Hexagonal architecture for BusinessOne WebClient
+**** Preparation
+***** [[file:research/hana_vs_mssql-20210331152137.org][SQL Guidelines for HANA and MSSQL]]
+
+
+

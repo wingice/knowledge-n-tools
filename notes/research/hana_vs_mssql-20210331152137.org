@@ -1,0 +1,4 @@
+#+title: SQL Guidelines for HANA and MSSQL
+
+* HANA
+[SQL Guidelines for HANA and MSSQL \| SAP Blogs](https://blogs.sap.com/2013/03/14/sql-guidelines-for-hana-and-mssql/)

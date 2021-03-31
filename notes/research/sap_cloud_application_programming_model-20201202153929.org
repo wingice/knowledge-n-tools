@@ -1,0 +1,34 @@
+#+title: SAP Cloud Application Programming Model
+
+* Links
+** Entrance
+*** CAP Document Internal: https://github.wdf.sap.corp/pages/cap/
+*** CAP Document Public: https://cap.cloud.sap/docs/about/
+*** CAP WIKI: https://wiki.wdf.sap.corp/wiki/display/CAP/CAP
+*** CAP Jam: https://jam4.sapjam.com/groups/uNkv3E6LrilaDGzfn9hPHL/overview_page/qKNgQ1HwURAaMjXtpsoi2I
+*** CAP Sharepoint: https://sap.sharepoint.com/teams/CAPSharing
+*** CAP Community: https://community.sap.com/topics/cloud-application-programming
+*** CAP Forum: https://answers.sap.com/tags/9f13aee1-834c-4105-8e43-ee442775e5ce
+** Concept documents:
+*** CDS-CDL: https://cap.cloud.sap/docs/cds/cdl
+
+
+** Useful articles
+*** CAP On PostgreSQL: https://blogs.sap.com/2020/11/30/run-and-deploy-cap-with-postgresql-on-sap-cloud-platform-cloud-foundry-node.js/
+*** CAP Blogs: https://blogs.sap.com/tags/9f13aee1-834c-4105-8e43-ee442775e5ce/
+*** UI5 Freestyle on CAP: https://blogs.sap.com/2020/07/08/ui5-freestyle-app-in-cap/
+*** UI5 + CAP: https://blogs.sap.com/2020/11/06/ui5ers-buzz-56-new-full-stack-ui5-sample-app-featuring-cap-odata-v4-draft-mode/
+*** Fiori + CAP: https://blogs.sap.com/2020/09/29/sap-fiori-element-using-cap-model-introduction/
+*** CAP + React: https://blogs.sap.com/2020/08/04/proxying-api-requests-in-react-cap-approuter-html5-repo-service-local-development/
+*** CAP + React Article2: https://blogs.sap.com/2020/07/21/office-check-in-app-using-cloud-apllication-programming-model-and-react.js/
+*** CAP Demo 1-6: https://blogs.sap.com/2020/05/01/sap-cloud-application-programming-model-demo1/
+
+* Tips
+** CAP run & debug
+*** Run and Serve:  cds watch
+*** Compile:        cds db/schema.cds
+
+
+* Questions
+** CAP Concept
+*** Managed assocation?

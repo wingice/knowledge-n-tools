@@ -1,0 +1,37 @@
+#+title: Java Yaml Handling
+
+* Spring is using Snakeyaml to load yaml files
+- [ ] https://www.baeldung.com/java-snake-yaml
+- [ ] https://stackabuse.com/reading-and-writing-yaml-files-in-java-with-snakeyaml/
+- [ ] https://www.logicbig.com/tutorials/misc/yaml/snake-yaml-loading.html
+
+
+* Spring is providing "YamlMapFactoryBean" to read xml files 
+https://stackoverflow.com/questions/54685528/springboot-map-yaml-to-map-of-map
+
+#+BEGIN_SRC java
+@Component
+public class YourClass {
+
+
+    private Map<String, String> tradeType;
+    private Map<String, String> securityCode;
+
+    public Map<String, String> getTradeType() {
+        return tradeType;
+    }
+
+    public Map<String, String> getSecurityCode() {
+        return securityCode;
+    }
+
+
+    @PostConstruct
+    public void yamlFactory() {
+        YamlMapFactoryBean factory = new YamlMapFactoryBean();
+        factory.setResources(new ClassPathResource("your.yml"));
+        tradeType = (Map<String, String>) factory.getObject().get("tradeType");
+        securityCode = (Map<String, String>) factory.getObject().get("securityCode");
+    }
+}
+#+END_SRC

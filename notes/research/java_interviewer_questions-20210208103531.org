@@ -2,7 +2,7 @@
 
 * Java interview questions as an interviewer
 ** ORM
-*** Hibernate vs Mybatis, 
+*** Hibernate vs Mybatis,
 *** Special attentions when modeling two-way associations
 
 ** Basic knowledges
@@ -30,7 +30,50 @@
 *** Output top 3 maximum occuring characters in an input string
 *** Output the longest substring with consecutive characters
 
+* Interview questions and answers  - 2021-05-25
+** Q: When will you need to to implemewnt equals() and hashCode() methods for your class ?
+A: The default implementation of Object's equals() is
+public boolean equals(Object obj) {
+        return (this == obj);
+}
+which means two objects will be considered equal only if they have the same
+memory address which will be true only if you are comparing an object with itself.
 
+But you might want to consider two objects the same if they have the same value
+for one or more of their properties.
 
+So you will override equals() in these situations and you would give your own conditions for equality.
 
+why are they asking to override hashCode() as well?
+Well.As long as you don't use "Hash" based Collections on your user-defined class,
+it is fine. But some time in the future you might want to use HashMap or HashSet
+and if you don't override and "correctly implement" hashCode(), these Hash based collection won't work as intended.
 
+** Q: How to implement a Producer-Consumer solution using threads in Java? And which collection utility classes are you intended to use?
+A: In computing, the producer-consumer problem (also known as the bounded-buffer problem)
+is a classic example of a multi-process synchronization problem.
+The problem describes two processes, the producer and the consumer,
+which share a common, fixed-size buffer used as a queue.
+
+The producer’s job is to generate data, put it into the buffer, and start again.
+At the same time, the consumer is consuming the data (i.e. removing it from the buffer), one piece at a time.
+Problem
+To make sure that the producer won’t try to add data into the buffer
+if it’s full and that the consumer won’t try to remove data from an empty buffer.
+
+Solution
+The producer is to either go to sleep or discard data if the buffer is full. The next time the consumer
+removes an item from the buffer, it notifies the producer, who starts to fill the buffer again.
+In the same way, the consumer can go to sleep if it finds the buffer to be empty.
+The next time the producer puts data into the buffer, it wakes up the sleeping consumer.
+An inadequate solution could result in a deadlock where both processes are waiting to be awakened.
+
+** What are Database Isolation Levels? How do your choose among them, How do they got implemented?
+Q: [Read Uncommitted/Read Committed/Repeatable Read/Serializable/Snapshot Isolation...]
+
+Database isolation defines the degree to which a transaction must be isolated from the data modifications
+made by any other transaction(even though in reality there can be a large number of concurrently running transactions).
+The overarching goal is to prevent reads and writes of temporary, aborted, or otherwise incorrect
+data written by concurrent transactions.
+
+The DBMS use different lock combination to implement the different isolation levels.

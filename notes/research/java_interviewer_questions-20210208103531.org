@@ -41,7 +41,6 @@ memory address which will be true only if you are comparing an object with itsel
 
 But you might want to consider two objects the same if they have the same value
 for one or more of their properties.
-
 So you will override equals() in these situations and you would give your own conditions for equality.
 
 why are they asking to override hashCode() as well?
@@ -77,3 +76,72 @@ The overarching goal is to prevent reads and writes of temporary, aborted, or ot
 data written by concurrent transactions.
 
 The DBMS use different lock combination to implement the different isolation levels.
+
+
+* Questions for English Speakers
+** Greeting:
+1.	Hi, this is William from SAP China. We’re looking for java developers. Am I speaking to ….,  Are you ….,  Is this …. 
+2.	Thank you for taking the call
+3.	Walk through the work experience in details
+4.	“Good Afternoon. My name is Emma and I am calling from The SAP, you recently applied for the Administrator role. Are you free at the moment or can we agree a time for me to ask you a few questions?”  If it’s not a convenient time, ensure you agree a date and time and call them back when it is more suitable.
+5.	Hi, this is William. Is this ?  How are you today?
+6.	I can't quite hear you. Let me step outside and see if I get better reception. Do you mind holding on just a moment?
+7.	– Hello, I am ___, and I received your application for the position of ____ in the ____ Department at UC Berkeley.  I’d like to do a brief phone interview that will last between 15‐30 minutes regarding your qualifications and interest in the position.  When would be a good time to schedule a phone interview?
+
+** General Questions:
+1.	Tell me about yourself
+2.	Can you tell me a little about yourself?
+3.	What do you know about this company?
+4.	What interests you about this job?
+5.	Tell me about your experience with 
+6.	Describe your educational background and experience
+7.	Why do you want this job? Why do you want to work at this company?
+8.	What is the most important thing you’re looking for in a company/job?
+9.	What applicable experiences or skills do you have?
+10.	How did you contribute to the outcomes achieved?
+11.	Why do you think you are suitable for this position?
+12.	What is your greatest weakness?
+13.	What are some of your greatest strengths?
+14.	Would you share with me about…
+15.	What is the most significant accomplishment you have made thus far?
+16.	How do you handle stress and pressure?
+17.	How would you rate your communication skills?
+18.	What motivates you?
+19.	What type of work environment do you prefer?
+20.	Give an example of a situation where you used logic to solve a problem.
+21.	Have you ever gone above and beyond the call of duty? When and How?
+22.	How have you handled a difficult situation with a customer or co-worker?
+23.	How do you evaluate success?
+24.	Questions about your career goals – where do you see yourself in five years? Ten years?
+25.	Is there anything I haven’t told you about the job or company that you would like to know?
+26.	Do you have any questions?
+27.	Can you start work on dd/mm/yy?
+28.	To date, what professional achievement are you most proud of?
+
+** Probing questions:
+1.	Tell me exactly what happened after that…
+2.	Looking back, what would you have done differently?
+3.	As a supervisor, what would you do if one of your subordinate employees consistently arrives late for work?
+
+** Competency-based questions
+1.	Describe a time when your communication skills make a difference to the situation.
+2.	How do you ensure compliance with policies in your area of responsibility?
+3.	What type of responsibilities do you delegate?
+4.	Provide an example of a time when you had to improvise in order to achieve your goal.
+** Schedule
+1.	Is there a time I can call you back at your earliest convenience?
+** Wrap up
+1.	Thank you for taking the time to talk with me today.
+2.	"Thank you for your time today. I've enjoyed speaking with you, learning more about this opportunity, and I would be very happy to discuss more about it in person."
+3.	Thank you for taking the time to discuss your qualifications and interest. You can reach me at ____ with any questions or additional information.  Our next step is to complete the phone interviews and determine whom to invite in for an interview.  I will get back to everyone by _____.
+4.	“Thank you for your time, we’ll be in touch.
+
+** Java Questions
+1.	Tell me what you like about Java.
+2.	How do equals() and == differ?
+3.	What is hashing?
+4.	When and why do we need to override equals and hashcode methods?
+5.	Why is reflection used?
+6.	Why is string immutable?
+7.	How do you find the most frequent letter in a long string, ie. With the most occurrence times, maximum occurrence
+

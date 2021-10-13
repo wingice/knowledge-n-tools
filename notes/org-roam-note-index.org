@@ -10,5 +10,10 @@ Note Index
 * Development
 ** General
 *** [[file:research/java_interviewer_questions-20210208103531.org][Java interviewer questions]]
+
+* Parenting
+** Homework coaching
+*** [[file:parenting/homework_coaching_for_children-20211012145810.org][如何辅导作业拖拉的孩子]]
+
 * Life
-** [[file:general/what_is_worth_buying-20200922130538.org][What is worth buying]]
+** [[file:general/what_is_worth_buying-20200922130538.org][What is worth buy]]

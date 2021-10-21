@@ -1,4 +1,7 @@
-#+title: Diagram and Website Design Tools
+:PROPERTIES:
+:ID:       65590e19-ece9-4326-85c1-801567f61f42
+:END:
+#+title: Diagram and Website Design Tools - Bookmarks and URLs
 
 Internet Tools
 ==============
@@ -22,9 +25,6 @@ BgEraser 是一个可以在线自动抠图的网站，使用方法很简单，�
 我用的最多的做图网站就是这个了，简单来说就是为小白设计的，海量模板大部分都是免费的，想要做什么类型的图，直接找到模板，替换素材，修改文字即可搞定！
 
 **** 在线 PS 工具：稿定设计 https://www.uupoop.com/
-:PROPERTIES:
-:ID:       0E5EF6C2-D5AE-4194-BB57-95279E0459A8
-:END:
 有时候临时要做一些图片却没又安装 PS，可以试试这个在线 PS 的工具，界面和操作和 PS 一模一样，功能也非常完备。
 
 **** 免费 PNG 素材网：StickPNG https://www.stickpng.com/

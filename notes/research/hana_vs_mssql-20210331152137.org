@@ -1,3 +1,6 @@
+:PROPERTIES:
+:ID:       02eb5883-d697-4a15-8302-9cad1be1c0d5
+:END:
 #+title: SQL Guidelines for HANA and MSSQL
 
 * HANA

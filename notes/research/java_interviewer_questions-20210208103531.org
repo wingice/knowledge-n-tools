@@ -1,3 +1,6 @@
+:PROPERTIES:
+:ID:       857ee902-e5d7-43ed-a85b-338873fc5a41
+:END:
 #+title: Java interviewer questions
 
 * Java interview questions as an interviewer

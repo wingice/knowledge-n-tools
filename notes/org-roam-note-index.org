@@ -1,19 +1,21 @@
+:PROPERTIES:
+:ID:       841e302b-7f4b-43a4-93a5-ff43171bfb95
+:END:
 Note Index
 =========
 
 * Work
-** [[file:research/java_interviewer_questions-20210208103531.org][Java interviewer questions]]
+** [[id:857ee902-e5d7-43ed-a85b-338873fc5a41][Java interviewer questions]]
 
 * Internet Tools
-** [[file:internet/tools-20200904145215.org][Diagram and Website Design Tools]]
+** [[id:65590e19-ece9-4326-85c1-801567f61f42][Diagram and Website Design Tools]]
 
 * Development
 ** General
-*** [[file:research/java_interviewer_questions-20210208103531.org][Java interviewer questions]]
 
 * Parenting
 ** Homework coaching
-*** [[file:parenting/homework_coaching_for_children-20211012145810.org][如何辅导作业拖拉的孩子]]
+*** [[id:8ca216fa-56a1-4e2a-88ec-394dc3e124d2][Homework coaching for children]]
 
 * Life
-** [[file:general/what_is_worth_buying-20200922130538.org][What is worth buy]]
+** [[id:e7d0433c-d6ed-49d6-88bd-aa19f190c6ee][What is worth buying]]

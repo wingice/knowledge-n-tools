@@ -1,3 +1,6 @@
+:PROPERTIES:
+:ID:       356fda66-650d-4df2-8a67-5fa5433575f2
+:END:
 #+title: SAP Cloud Application Programming Model
 
 * Links

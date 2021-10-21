@@ -1,13 +1,16 @@
+:PROPERTIES:
+:ID:       a7d583a8-64b0-4426-ab22-0d3bdcbfd9d8
+:END:
 #+title: NoteIndex
 
 * Knowledge build-up
 ** Development 
 *** Programming model
-**** [[file:research/sap_cloud_application_programming_model-20201202153929.org][SAP Cloud Application Programming Model]]
+**** [[id:356fda66-650d-4df2-8a67-5fa5433575f2][SAP Cloud Application Programming Model]]
 
 *** Hexagonal architecture for BusinessOne WebClient
 **** Preparation
-***** [[file:research/hana_vs_mssql-20210331152137.org][SQL Guidelines for HANA and MSSQL]]
+***** [[id:02eb5883-d697-4a15-8302-9cad1be1c0d5][SQL Guidelines for HANA and MSSQL]]
 
 
 

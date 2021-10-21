@@ -1,3 +1,6 @@
+:PROPERTIES:
+:ID:       0eb42df1-f9fc-4811-9955-709a2682875b
+:END:
 #+title: Java Development General
 
 * Utils

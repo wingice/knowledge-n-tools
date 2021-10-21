@@ -1,3 +1,6 @@
+:PROPERTIES:
+:ID:       95cd0158-ce2e-4c4d-a1db-068da4dd6c07
+:END:
 #+title: Java Yaml Handling
 
 * Spring is using Snakeyaml to load yaml files

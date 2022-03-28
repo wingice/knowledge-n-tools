@@ -1,0 +1,14 @@
+:PROPERTIES:
+:ID:       52021064-A08B-483B-9AB1-087AF16E4837
+:END:
+#+title: macos with external display Jinhe
+
+Working-settings:
+1. Viewsonic settings:
+   1. Use standard mode (not MAC mode, mac mode will reset brightness everytime)
+   2. HDR10 is on (need to test whether ok if off)
+
+2. macos
+   1. Install gfxCardStatus, force to use external display card(discrete)
+      again, not sure whether it matters
+

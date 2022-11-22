@@ -1,0 +1,26 @@
+:PROPERTIES:
+:ID:       4FE7764C-AECE-413F-A3B7-96508951F795
+:END:
+#+title: General Reference Note - 2022
+
+* WebClient
+** Backend
+*** Performance logging solution
+**** Investigation
+ - [ ] https://www.baeldung.com/spring-performance-logging  --> basic concept with AOP and PerformanceMonitorIiiinterceptor
+ - [ ] https://stackoverflow.com/questions/44615091/performance-logging-with-spring-boot-and-aop  --> Just using Around AOP
+ - [ ] https://betterjavacode.com/programming/performance-monitoring-with-spring-boot --> CustomizableTraceInterceptor
+ - [ ] https://howtodoinjava.com/spring-boot2/logging/performance-logging-aspectj-aop/
+ - [ ] https://itecnote.com/tecnote/java-performance-logging-with-spring-boot-and-aop/
+ - [ ] https://vladmihalcea.com/spring-boot-performance-monitoring/
+ - [ ] https://www.fusion-reactor.com/blog/technical-blogs/spring-boot-performance-monitoring/
+ - [ ] https://www.javachinna.com/logging-performance-monitoring-security-and-transaction-management-with-spring-aop/
+ - [ ] https://coralogix.com/blog/spring-boot-logging-best-practices-guide/  --> General logging best practices
+ - [ ] https://www.infoworld.com/article/2073130/performance-monitoring-with-spring-aop.html
+ - [ ] https://rumenz.com/java-topic/spring-boot2/logging/performance-logging-aspectj-aop/index.html
+ - [ ] https://sematext.com/blog/java-logging-best-practices/
+ - [ ] http://www.masterspringboot.com/programming/various/monitoring-the-performance-of-spring-method-execution/
+ - [ ] https://medium.com/javarevisited/high-performance-logging-java-59ba374b2166
+
+
+ 疲惫 疫情

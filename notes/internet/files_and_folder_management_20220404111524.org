@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:       87AAEAF1-0A20-45F3-85D5-5A8C77052658
+:END:
+#+title: files and folder management tips
+
+* Folders
+** How to delete empty folders
+What you need is depth-first traversal. With that, you'd start at the deepest directory and then move your way up.
+find has an option for that, so you can simply run:
+find /some/path -depth -type d -exec rmdir {} \;
+
+You may want to additionally suppress the warnings for non-empty directories. You can add 2>/dev/null at the end for that.
+With GNU find (and others like the BSD find on OS X), you can optimize the command – and run it without warnings – using -empty, as you did above.
+
+find /some/path -depth -type d -empty -exec rmdir {} \;
+
+https://superuser.com/questions/597306/how-do-you-remove-nested-empty-directories-using-a-bash-script-on-linux
+

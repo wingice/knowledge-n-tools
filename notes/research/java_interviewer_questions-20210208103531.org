@@ -83,7 +83,7 @@ The DBMS use different lock combination to implement the different isolation lev
 
 * Questions for English Speakers
 ** Greeting:
-1.	Hi, this is William from SAP China. We’re looking for java developers. Am I speaking to ….,  Are you ….,  Is this …. 
+1.	Hi, this is William from SAP China. We’re looking for java developers. Am I speaking to ….,  Are you ….,  Is this ….
 2.	Thank you for taking the call
 3.	Walk through the work experience in details
 4.	“Good Afternoon. My name is Emma and I am calling from The SAP, you recently applied for the Administrator role. Are you free at the moment or can we agree a time for me to ask you a few questions?”  If it’s not a convenient time, ensure you agree a date and time and call them back when it is more suitable.
@@ -96,7 +96,7 @@ The DBMS use different lock combination to implement the different isolation lev
 2.	Can you tell me a little about yourself?
 3.	What do you know about this company?
 4.	What interests you about this job?
-5.	Tell me about your experience with 
+5.	Tell me about your experience with
 6.	Describe your educational background and experience
 7.	Why do you want this job? Why do you want to work at this company?
 8.	What is the most important thing you’re looking for in a company/job?
@@ -148,3 +148,65 @@ The DBMS use different lock combination to implement the different isolation lev
 6.	Why is string immutable?
 7.	How do you find the most frequent letter in a long string, ie. With the most occurrence times, maximum occurrence
 
+
+* LeetCode interview question text
+** BinarySearch
+public class Main {
+    public static void main(String[] args) {
+        //This is a sorted array
+        int[] input = {1, 3, 5, 7, 21, 223, 234, 292, 319, 2343};
+        System.out.println(binarySearch(input, 0, input.length-1, 555));
+    }
+
+    public static int binarySearch(int[]input, int start, int end, int  target)
+    {
+        if(end==start){
+           if(input[end]==target) return end;
+           return -1;
+        }
+        if(end-start== 1){
+            if(input[start]==target) return start;
+            if(input[start+1]==start) return start+1;
+        }
+        int ind=start+(end-start)/2;
+        if(input[ind]==target){
+                return ind;
+        }else if(input[ind]>target){
+                return binarySearch(input,start,ind,target);
+        }else{
+                return binarySearch(input,ind,end,target);
+        }
+    }
+
+    //Implement  binarySearch,  print "found" or "not found"
+
+}
+
+** The closest distance among numbers
+//From a given array of natural numbers, return the distance between the two closest numbers.
+import java.util.*;
+
+public class Main {
+
+    // Returns the distance between the two closest numbers.
+    static int distClosestNumbers(int[] numbers) {
+        Integer minDiff = -1;
+        for(int i=0;i<numbers.length;i++){
+            Integer one = numbers[i];
+            for(int j=i;j<numbers.length;j++){
+                Integer two = numbers[j];
+                Integer temp = Math.abs(one-two);
+                if(minDiff==-1||temp<minDiff){
+                    minDiff=temp;
+                }
+            }
+        }
+	}
+
+
+    public static void main(String[] args) {
+        int[] testArray = {3, 70, 73, 98, 95, 99, 102, 190, 800};
+        int result = distClosestNumbers(testArray);
+        System.out.println(result); // Expected result is 1 (the 2 closest numbers are 98 and 99)
+    }
+}

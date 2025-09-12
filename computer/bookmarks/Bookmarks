@@ -1,0 +1,145 @@
+{
+   "checksum": "5bde7b13516a48170ba2312d56122bcb",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "children": [ {
+               "date_added": "13383826639574541",
+               "date_last_used": "13383826680598514",
+               "guid": "fc8b7eb9-b567-4f32-b2d0-534b86185cdb",
+               "id": "77",
+               "name": "B1 AI Knowledge Search",
+               "show_icon": false,
+               "source": "unknown",
+               "type": "url",
+               "url": "https://web.pqd.only.sap/PQDW/index.xsjs?open=b1_ai_search_powered_by_llm",
+               "visit_count": 1
+            } ],
+            "date_added": "13383826542134363",
+            "date_last_used": "0",
+            "date_modified": "13383827256563399",
+            "guid": "0b9a3061-651c-4821-a860-c0182b169a31",
+            "id": "76",
+            "name": "WebClient",
+            "source": "extension",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13383827256563399",
+               "date_last_used": "0",
+               "guid": "4449c0a8-4bc6-4012-a6a5-2adebbcc4af0",
+               "id": "78",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "WINGs Dashboard - SME",
+               "show_icon": false,
+               "source": "user_add",
+               "type": "url",
+               "url": "https://smejira.tools.sap/secure/Dashboard.jspa?selectPageId=28512",
+               "visit_count": 1
+            } ],
+            "date_added": "13383827291706448",
+            "date_last_used": "0",
+            "date_modified": "13383827809483118",
+            "guid": "2ebf5976-dd87-48c2-bc39-a1ebc7af0bbe",
+            "id": "79",
+            "name": "WingS",
+            "source": "unknown",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13383827971790517",
+               "date_last_used": "0",
+               "guid": "dc81215f-18c6-4d65-bf5e-f9d37e407a2f",
+               "id": "83",
+               "name": "CdCenter",
+               "show_icon": false,
+               "source": "unknown",
+               "type": "url",
+               "url": "https://cdcenter.smes.sap.corp/webClient/#/bookedList?tab=my",
+               "visit_count": 0
+            }, {
+               "date_added": "13383827809483118",
+               "date_last_used": "0",
+               "guid": "23a5b2f7-ceb3-4d99-98d7-b74c37977a57",
+               "id": "80",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "Apollo JIRA board",
+               "show_icon": false,
+               "source": "user_add",
+               "type": "url",
+               "url": "https://smejira.tools.sap/secure/RapidBoard.jspa?rapidView=424&quickFilter=4045#",
+               "visit_count": 1
+            }, {
+               "date_added": "13383827893117846",
+               "date_last_used": "0",
+               "guid": "b2fbc0cc-5131-49f0-9d2e-668c280238a4",
+               "id": "82",
+               "name": "CICD",
+               "show_icon": false,
+               "source": "unknown",
+               "type": "url",
+               "url": "https://cd.sbo.only.sap/#/bookEnvironmentList",
+               "visit_count": 0
+            }, {
+               "date_added": "13383885367667431",
+               "date_last_used": "0",
+               "guid": "9b5ae24d-9c3b-42a8-9f05-5c2ec2ea31b3",
+               "id": "86",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "My open issues",
+               "show_icon": false,
+               "source": "user_add",
+               "type": "url",
+               "url": "https://smejira.tools.sap/issues/?filter=-1",
+               "visit_count": 1
+            } ],
+            "date_added": "13383827841648255",
+            "date_last_used": "0",
+            "date_modified": "13383885367667431",
+            "guid": "c493221d-aa6d-4f99-9908-48979960fad5",
+            "id": "81",
+            "name": "Apollo",
+            "source": "unknown",
+            "type": "folder"
+         } ],
+         "date_added": "13312534472000483",
+         "date_last_used": "0",
+         "date_modified": "13383827971790517",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "Favorites bar",
+         "source": "unknown",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13312534472000485",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "Other favorites",
+         "source": "unknown",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13312534472000485",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "Mobile favorites",
+         "source": "unknown",
+         "type": "folder"
+      }
+   },
+   "sync_metadata": "Co0BCg4IiIECEgioWwf9lAEAABIAGlhUU1dqM1ZZZFpNUStQVXlMOW1ZbjhOTmRhMWwyNDhSV3FwRERmWVE1SHhOV2QyUG5LWjVxWnpqaGMreC9OMENQZXVMSVlMSjZ2Y2EwS1l0d3RnazRxdz09Khh4SjZzWjd4c2Q0WldEd01qRCt2Y1Z3PT1IA6AGDCABEq0BCFYSqAEKHFNXcE5GQ1drV2MwTUlKRnZOTzF4NUh0cmp6TT0SJDliNWFlMjRkLTljM2ItNDJhOC05ZjA1LTVjMmVjMmVhMzFiMxgAIAMoAzCmt53ozzI484KV6M8yQJj8lejPMkocQ1kzU3JPYXloOEtmOW0zTE81OGZuQVR6dzR3PVofIh3aL040d2FkNldaMXA5ZUlMMjFPcS9DVlNDTUR3PWU6aNXjwj4CYAYSrAEITRKnAQocSE5MYTljYXg2RExpNm1kMTZDMXdYaElTWnhJPRIkZmM4YjdlYjktYjU2Ny00ZjMyLWIyZDAtNTM0Yjg2MTg1Y2RiGAAgBSgFMOzHmMzPMjjWxZTMzzJAyrCYzM8yShxJaUF0YW44UzJPQUNWZi9LdmVqYzN4Z0pNMTg9Wh4iHGRKdDNmMW8wR0NnNFNOem1XbXF0OGFSY0JyVT1lkg71N8I+AmAAEokBCAMShAEKHG5qZ0R1ODhlQ3J2WHA4NnBEN2ZIR2NxRnA4OD0SJDNiNjQ4MmQ2LWY2ZDMtNTQxMy1hNDhiLTE1NjBlZGQ2ZDY3NxgAIAAoADDupJ+Xny44g9qKhKUvQIPaioSlL0oceXpOQjAxY241NEE3Y1JVMHVUKy9QZ21UdFVvPVoAZQAAAAASiQEIAhKEAQocWWNTVG9udkVTUHdxQ3M0TDJjclZodjY4TDk4PRIkMDYxMzg1ODEtODI3OC01MGY2LWI2ZGYtZmRhYTViMjc2ZDFlGAAgACgAMI2dn5efLjii1IqEpS9AotSKhKUvShxvUFZraHdCUmJWNjVLQ1dSMitJT05IV29PdTg9WgBlAAAAABKJAQgBEoQBChx5eEovNmZ2a2VjcjdrcDVFUXpCNHRXTHBkYkU9EiRmYzIxYjg4Zi01MTY2LTVjOGMtODAyYy1lYjU1MzlhMmZjZTkYACAAKAAwjpufl58uOLDSioSlL0Cw0oqEpS9KHGFSQ1dMZ2hGOWI1SW5xS0lEdnVKL2p2UWtGYz1aAGUAAAAAEq4BCEwSqQEKHGErZGhrRkxVOW9KazJtc1ZUbzFoWXFWWlFzWT0SJDBiOWEzMDYxLTY1MWMtNDgyMS1hODYwLWMwMTgyYjE2OWEzMRgAIAEoATCC5Y7MzzI4tsyOzM8yQLbMjszPMkocdGxTVlVndDNxVENkUFZTTmpvODc4MDdFc0pnPVogIh7/00RobkhzbGlGUEJGMDRoVzdOQjVtL1U0eUR5OD1lAAAAAMI+AmABEqwBCE4SpwEKHHpaS0xpeTNTcEpMbGdQMDhOOUN2S2RJUUd0VT0SJDQ0NDljMGE4LTRiYzYtNDAxMi1hNmE1LTJhZGViYmNjNGFmMBgAIAQoBDDhw7zMzzI485m6zM8yQLqsvMzPMkocbFFrbDhoY294eUZKM3I5YlV0QjlLakt0d1VFPVoeIhxyc2NqS2JtU0JDak0wMDR0WEl0b0kxVUp3Rms9ZTpo1ePCPgJgBhKuAQhREqkBChxNQXNJYzJoRDFxTkswYk9wdysrdXhqTW5TWnc9EiRjNDkzMjIxZC1hYTZkLTRmOTktOTkwOC00ODk3OTk2MGZhZDUYACABKAEwjIzezM8yOPD03czPMkDw9N3MzzJKHGVqWFRieFI2OGtJcy93bEM0OEFEWlZob2QwZz1aICIe//RFS0JxcWNIUlBFQkphN2o5ZlBPTklXUlNUeVk9ZQAAAADCPgJgABKtAQhSEqgBChxhVjVBTk5wNDAyQ0w1aGRveUNaclp5cFpoSms9EiRiMmZiYzBjYy01MTMxLTQ5ZjAtOWQyZS02NjhjMjgwMjM4YTQYACAEKAQw9qHjzM8yOP6G4czPMkC0iePMzzJKHHJJNkhEUVRwcVNFb2J4WnVIdDViQU5tNHU4ND1aHyIdtVNyRDBWbWhjT2FKVEhiMlRMdEd3bkdodm1hUT1l1X+Y/8I+AmAAEqwBCFASpwEKHHZiMUE4RE5NVE16UkpPSEUrdnE2dG1YUVIyOD0SJDIzYTViMmY3LWNlYjMtNGQ5OS05OGQ3LWI3NGMzNzk3N2E1NxgAIAQoBDCNjN7MzzI4y/nbzM8yQPD03czPMkocMkI1WVpDSjJXTmZBNGNnZTQ0TUVOQ1lkcWNFPVoeIhxqNk52MkNCOFovREJJTWkvTlNMUVFMcDBLNGc9ZTpo1ePCPgJgBhKuAQhPEqkBChxuM0E2dG9GN0tITzREeGxEU1dWcTZCQ1VVYW89EiQyZWJmNTk3Ni1kZDg3LTQ4YzItYmMzOS1hMWViYzdhZjBiYmUYACABKAEw4MO8zM8yOLqsvMzPMkC6rLzMzzJKHDZDQVorNk1QK01vU21JSks4SGh3aUNRYXE2RT1aICIe/+l2VEZmdFpnY25paGdPZXAwSUh1SldEUWVCcnc9ZQAAAADCPgJgABKsAQhTEqcBChxUOFM1dlNHY1k0QzBPMkw2QnAxaTBoeTRjNGM9EiRkYzgxMjE1Zi0xOGM2LTRkNjUtYmY1ZS1mOWQzN2U0MDdhMmYYACADKAMw9dDnzM8yOM7t5czPMkDcuefMzzJKHDlPeEphWldQU2RLQUZSY3ZEVE9pYzRLQ3pqQT1aHiIcWGVFMERETnZ6aWR1T0Mzd3BmWEdDVnhKTkRZPWUAAAAAwj4CYAAwADgA",
+   "version": 1
+}

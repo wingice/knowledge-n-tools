@@ -1,5 +1,5 @@
 {
-   "checksum": "5bde7b13516a48170ba2312d56122bcb",
+   "checksum": "103297fb9ccdee61cee405c6d88db67f",
    "roots": {
       "bookmark_bar": {
          "children": [ {
@@ -49,17 +49,6 @@
             "type": "folder"
          }, {
             "children": [ {
-               "date_added": "13383827971790517",
-               "date_last_used": "0",
-               "guid": "dc81215f-18c6-4d65-bf5e-f9d37e407a2f",
-               "id": "83",
-               "name": "CdCenter",
-               "show_icon": false,
-               "source": "unknown",
-               "type": "url",
-               "url": "https://cdcenter.smes.sap.corp/webClient/#/bookedList?tab=my",
-               "visit_count": 0
-            }, {
                "date_added": "13383827809483118",
                "date_last_used": "0",
                "guid": "23a5b2f7-ceb3-4d99-98d7-b74c37977a57",
@@ -98,10 +87,87 @@
                "type": "url",
                "url": "https://smejira.tools.sap/issues/?filter=-1",
                "visit_count": 1
+            }, {
+               "date_added": "13392355139683747",
+               "date_last_used": "0",
+               "guid": "9136d4b2-fa51-452d-ab58-afb7ca62fce5",
+               "id": "92",
+               "name": "Local ServiceLayer WebClient",
+               "show_icon": false,
+               "source": "user_add",
+               "type": "url",
+               "url": "http://localhost:3000/webx/login_dev.html",
+               "visit_count": 1
+            }, {
+               "date_added": "13396342755891807",
+               "date_last_used": "0",
+               "guid": "21c0bf3d-e99c-47fe-995f-9a87a4f64aee",
+               "id": "95",
+               "name": "Useful Link - apollo",
+               "show_icon": false,
+               "source": "user_add",
+               "type": "url",
+               "url": "https://wiki.one.int.sap/wiki/pages/viewpage.action?spaceKey=SMEB1&title=Useful+Link",
+               "visit_count": 1
+            }, {
+               "date_added": "13396515222521620",
+               "date_last_used": "0",
+               "guid": "d3c4792c-5bb1-47ef-bc2b-b3ba0d525170",
+               "id": "96",
+               "name": "Request and Use Third Party and Open Source in B1 - SAP Business One - Wiki@SAP",
+               "show_icon": false,
+               "source": "user_add",
+               "type": "url",
+               "url": "https://wiki.one.int.sap/wiki/display/SMEB1/Request+and+Use+Third+Party+and+Open+Source+in+B1",
+               "visit_count": 1
+            }, {
+               "date_added": "13397550576745725",
+               "date_last_used": "0",
+               "guid": "e9c4c033-399f-47a4-9a1d-871a734078b9",
+               "id": "100",
+               "name": "Set up GitHub Copilot",
+               "show_icon": false,
+               "source": "user_add",
+               "type": "url",
+               "url": "https://sap.sharepoint.com/teams/AIPairProgrammingwithGitHubCopilot/SitePages/Setting-up-Copilot.aspx",
+               "visit_count": 1
+            }, {
+               "date_added": "13400748326691398",
+               "date_last_used": "0",
+               "guid": "05407f85-49a5-4eaf-bce9-f594cc51cd1d",
+               "id": "103",
+               "name": "fapiao app",
+               "show_icon": false,
+               "source": "user_add",
+               "type": "url",
+               "url": "https://sapit-home-prod-004.launchpad.cfapps.eu10.hana.ondemand.com/site#unifiedticketing-Display&/articledetail/491628-IeewQapln7tfNMRuJxfLxw~P",
+               "visit_count": 1
+            }, {
+               "date_added": "13402140279093255",
+               "date_last_used": "13402140331657539",
+               "guid": "20961b2a-74b2-441f-b186-87ed2c3ea9b5",
+               "id": "106",
+               "name": "cats - Activity Recording",
+               "show_icon": false,
+               "source": "user_add",
+               "type": "url",
+               "url": "https://sapit-home-prod-004.launchpad.cfapps.eu10.hana.ondemand.com/site#cat2activityrecording-Display?sap-ui-app-id-hint=c44f501f-b234-42fa-8670-589df5ae813d",
+               "visit_count": 2
+            }, {
+               "date_added": "13402566286417350",
+               "date_last_used": "0",
+               "guid": "a5689a04-e836-43eb-8a73-de7565d4acf5",
+               "id": "109",
+               "name": "TAoD",
+               "show_icon": false,
+               "source": "user_add",
+               "type": "url",
+               "url": "https://taod.sbo.only.sap/#/bookedMachineList",
+               "visit_count": 1
             } ],
             "date_added": "13383827841648255",
             "date_last_used": "0",
-            "date_modified": "13383885367667431",
+            "date_modified": "13402566286417350",
             "guid": "c493221d-aa6d-4f99-9908-48979960fad5",
             "id": "81",
             "name": "Apollo",
@@ -140,6 +206,6 @@
          "type": "folder"
       }
    },
-   "sync_metadata": "Co0BCg4IiIECEgioWwf9lAEAABIAGlhUU1dqM1ZZZFpNUStQVXlMOW1ZbjhOTmRhMWwyNDhSV3FwRERmWVE1SHhOV2QyUG5LWjVxWnpqaGMreC9OMENQZXVMSVlMSjZ2Y2EwS1l0d3RnazRxdz09Khh4SjZzWjd4c2Q0WldEd01qRCt2Y1Z3PT1IA6AGDCABEq0BCFYSqAEKHFNXcE5GQ1drV2MwTUlKRnZOTzF4NUh0cmp6TT0SJDliNWFlMjRkLTljM2ItNDJhOC05ZjA1LTVjMmVjMmVhMzFiMxgAIAMoAzCmt53ozzI484KV6M8yQJj8lejPMkocQ1kzU3JPYXloOEtmOW0zTE81OGZuQVR6dzR3PVofIh3aL040d2FkNldaMXA5ZUlMMjFPcS9DVlNDTUR3PWU6aNXjwj4CYAYSrAEITRKnAQocSE5MYTljYXg2RExpNm1kMTZDMXdYaElTWnhJPRIkZmM4YjdlYjktYjU2Ny00ZjMyLWIyZDAtNTM0Yjg2MTg1Y2RiGAAgBSgFMOzHmMzPMjjWxZTMzzJAyrCYzM8yShxJaUF0YW44UzJPQUNWZi9LdmVqYzN4Z0pNMTg9Wh4iHGRKdDNmMW8wR0NnNFNOem1XbXF0OGFSY0JyVT1lkg71N8I+AmAAEokBCAMShAEKHG5qZ0R1ODhlQ3J2WHA4NnBEN2ZIR2NxRnA4OD0SJDNiNjQ4MmQ2LWY2ZDMtNTQxMy1hNDhiLTE1NjBlZGQ2ZDY3NxgAIAAoADDupJ+Xny44g9qKhKUvQIPaioSlL0oceXpOQjAxY241NEE3Y1JVMHVUKy9QZ21UdFVvPVoAZQAAAAASiQEIAhKEAQocWWNTVG9udkVTUHdxQ3M0TDJjclZodjY4TDk4PRIkMDYxMzg1ODEtODI3OC01MGY2LWI2ZGYtZmRhYTViMjc2ZDFlGAAgACgAMI2dn5efLjii1IqEpS9AotSKhKUvShxvUFZraHdCUmJWNjVLQ1dSMitJT05IV29PdTg9WgBlAAAAABKJAQgBEoQBChx5eEovNmZ2a2VjcjdrcDVFUXpCNHRXTHBkYkU9EiRmYzIxYjg4Zi01MTY2LTVjOGMtODAyYy1lYjU1MzlhMmZjZTkYACAAKAAwjpufl58uOLDSioSlL0Cw0oqEpS9KHGFSQ1dMZ2hGOWI1SW5xS0lEdnVKL2p2UWtGYz1aAGUAAAAAEq4BCEwSqQEKHGErZGhrRkxVOW9KazJtc1ZUbzFoWXFWWlFzWT0SJDBiOWEzMDYxLTY1MWMtNDgyMS1hODYwLWMwMTgyYjE2OWEzMRgAIAEoATCC5Y7MzzI4tsyOzM8yQLbMjszPMkocdGxTVlVndDNxVENkUFZTTmpvODc4MDdFc0pnPVogIh7/00RobkhzbGlGUEJGMDRoVzdOQjVtL1U0eUR5OD1lAAAAAMI+AmABEqwBCE4SpwEKHHpaS0xpeTNTcEpMbGdQMDhOOUN2S2RJUUd0VT0SJDQ0NDljMGE4LTRiYzYtNDAxMi1hNmE1LTJhZGViYmNjNGFmMBgAIAQoBDDhw7zMzzI485m6zM8yQLqsvMzPMkocbFFrbDhoY294eUZKM3I5YlV0QjlLakt0d1VFPVoeIhxyc2NqS2JtU0JDak0wMDR0WEl0b0kxVUp3Rms9ZTpo1ePCPgJgBhKuAQhREqkBChxNQXNJYzJoRDFxTkswYk9wdysrdXhqTW5TWnc9EiRjNDkzMjIxZC1hYTZkLTRmOTktOTkwOC00ODk3OTk2MGZhZDUYACABKAEwjIzezM8yOPD03czPMkDw9N3MzzJKHGVqWFRieFI2OGtJcy93bEM0OEFEWlZob2QwZz1aICIe//RFS0JxcWNIUlBFQkphN2o5ZlBPTklXUlNUeVk9ZQAAAADCPgJgABKtAQhSEqgBChxhVjVBTk5wNDAyQ0w1aGRveUNaclp5cFpoSms9EiRiMmZiYzBjYy01MTMxLTQ5ZjAtOWQyZS02NjhjMjgwMjM4YTQYACAEKAQw9qHjzM8yOP6G4czPMkC0iePMzzJKHHJJNkhEUVRwcVNFb2J4WnVIdDViQU5tNHU4ND1aHyIdtVNyRDBWbWhjT2FKVEhiMlRMdEd3bkdodm1hUT1l1X+Y/8I+AmAAEqwBCFASpwEKHHZiMUE4RE5NVE16UkpPSEUrdnE2dG1YUVIyOD0SJDIzYTViMmY3LWNlYjMtNGQ5OS05OGQ3LWI3NGMzNzk3N2E1NxgAIAQoBDCNjN7MzzI4y/nbzM8yQPD03czPMkocMkI1WVpDSjJXTmZBNGNnZTQ0TUVOQ1lkcWNFPVoeIhxqNk52MkNCOFovREJJTWkvTlNMUVFMcDBLNGc9ZTpo1ePCPgJgBhKuAQhPEqkBChxuM0E2dG9GN0tITzREeGxEU1dWcTZCQ1VVYW89EiQyZWJmNTk3Ni1kZDg3LTQ4YzItYmMzOS1hMWViYzdhZjBiYmUYACABKAEw4MO8zM8yOLqsvMzPMkC6rLzMzzJKHDZDQVorNk1QK01vU21JSks4SGh3aUNRYXE2RT1aICIe/+l2VEZmdFpnY25paGdPZXAwSUh1SldEUWVCcnc9ZQAAAADCPgJgABKsAQhTEqcBChxUOFM1dlNHY1k0QzBPMkw2QnAxaTBoeTRjNGM9EiRkYzgxMjE1Zi0xOGM2LTRkNjUtYmY1ZS1mOWQzN2U0MDdhMmYYACADKAMw9dDnzM8yOM7t5czPMkDcuefMzzJKHDlPeEphWldQU2RLQUZSY3ZEVE9pYzRLQ3pqQT1aHiIcWGVFMERETnZ6aWR1T0Mzd3BmWEdDVnhKTkRZPWUAAAAAwj4CYAAwADgA",
+   "sync_metadata": "CosBCg4IiIECEgg5qW5VmQEAABIAGlhIYTJLeTF2a3dlRDlmQmkzMXpiREFtU2UxSU5XU0hMQ0RMM1FHUVRnM0ZwVGlrRTJNSjNrQVR2aHRYZ2xDcUpDVDcvckh3L1BsSUlud0VXRUg0SU1ZZz09KhhyNUNoZDgvVEJqaGZwTVdEUFhWUDBRPT1IA6AGBBKtAQhkEqgBChxNNDZDU09CaDZkSVAwRUM5ME1CVnpmUVJObzQ9EiRlOWM0YzAzMy0zOTlmLTQ3YTQtOWExZC04NzFhNzM0MDc4YjkYACACKAIwiaqf3IIzOOqYn9yCM0CPmZ/cgjNKHG94OU0zTVk3ZHlwNzVqdDYvNDBxTE9qQ1dYQT1aHyId/1RuOURHOVdYQkhBWWlCN3dTaHc1QU5nbEtycz1lofhAsMI+AmAGEq0BCF8SqAEKHG1xUnFiTkU3UUkwS1dOK1E4RHZrTkQ0WkFvYz0SJDIxYzBiZjNkLWU5OWMtNDdmZS05OTVmLTlhODdhNGY2NGFlZRgAIAQoBDDjp42akDM4tNSnnP4yQOOnjZqQM0ocazV0ZUNDeXM1V054ank5ak1yYVBIR2pPVnFFPVofIh37eXJDcVNTd1V3eVZuKzF3VHRLM1pIN080TlJRPWWhibzqwj4CYAYSrQEIVhKoAQocU1dwTkZDV2tXYzBNSUpGdk5PMXg1SHRyanpNPRIkOWI1YWUyNGQtOWMzYi00MmE4LTlmMDUtNWMyZWMyZWEzMWIzGAAgASgBMJTErOf+MjjQ+JXozzJA0PiV6M8yShxDWTNTck9heWg4S2Y5bTNMTzU4Zm5BVHp3NHc9Wh8iHdovTjR3YWQ2V1oxcDllSUwyMU9xL0NWU0NNRHc9ZTpo1ePCPgJgBhKuAQhMEqkBChxhK2Roa0ZMVTlvSmsybXNWVG8xaFlxVlpRc1k9EiQwYjlhMzA2MS02NTFjLTQ4MjEtYTg2MC1jMDE4MmIxNjlhMzEYACABKAEw3pus5/4yOI/pjszPMkCP6Y7MzzJKHHRsU1ZVZ3QzcVRDZFBWU05qbzg3ODA3RXNKZz1aICIe/9NEaG5Ic2xpRlBCRjA0aFc3TkI1bS9VNHlEeTg9ZQAAAADCPgJgARKsAQhOEqcBChx6WktMaXkzU3BKTGxnUDA4TjlDdktkSVFHdFU9EiQ0NDQ5YzBhOC00YmM2LTQwMTItYTZhNS0yYWRlYmJjYzRhZjAYACABKAEwksSs5/4yOI+6uszPMkCPurrMzzJKHGxRa2w4aGNveHlGSjNyOWJVdEI5S2pLdHdVRT1aHiIccnNjaktibVNCQ2pNMDA0dFhJdG9JMVVKd0ZrPWU6aNXjwj4CYAYSrAEIUBKnAQocdmIxQThETk1UTXpSSk9IRSt2cTZ0bVhRUjI4PRIkMjNhNWIyZjctY2ViMy00ZDk5LTk4ZDctYjc0YzM3OTc3YTU3GAAgASgBMI7ErOf+Mjj6mdzMzzJA+pnczM8yShwyQjVZWkNKMldOZkE0Y2dlNDRNRU5DWWRxY0U9Wh4iHGo2TnYyQ0I4Wi9EQklNaS9OU0xRUUxwMEs0Zz1lOmjV48I+AmAGEq4BCE8SqQEKHG4zQTZ0b0Y3S0hPNER4bERTV1ZxNkJDVVVhbz0SJDJlYmY1OTc2LWRkODctNDhjMi1iYzM5LWExZWJjN2FmMGJiZRgAIAEoATDdm6zn/jI4usa8zM8yQLrGvMzPMkocNkNBWis2TVArTW9TbUlKSzhIaHdpQ1FhcTZFPVogIh7/6XZURmZ0WmdjbmloZ09lcDBJSHVKV0RRZUJydz1lAAAAAMI+AmAAEq4BCFESqQEKHE1Bc0ljMmhEMXFOSzBiT3B3Kyt1eGpNblNadz0SJGM0OTMyMjFkLWFhNmQtNGY5OS05OTA4LTQ4OTc5OTYwZmFkNRgAIAEoATDfm6zn/jI4tI/ezM8yQLSP3szPMkocZWpYVGJ4UjY4a0lzL3dsQzQ4QURaVmhvZDBnPVogIh7/9EVLQnFxY0hSUEVCSmE3ajlmUE9OSVdSU1R5WT1lAAAAAMI+AmAAEq0BCFISqAEKHGFWNUFOTnA0MDJDTDVoZG95Q1pyWnlwWmhKaz0SJGIyZmJjMGNjLTUxMzEtNDlmMC05ZDJlLTY2OGMyODAyMzhhNBgAIAIoAjCTxKzn/jI41aLhzM8yQIeWrOf+MkocSEZsUkpZRE1QZk0xRFZpK0VWa1hzL2hkdXpvPVofIh21U3JEMFZtaGNPYUpUSGIyVEx0R3duR2h2bWFRPWUZBFjGwj4CYAASjgEIAhKJAQocWWNTVG9udkVTUHdxQ3M0TDJjclZodjY4TDk4PRIkMDYxMzg1ODEtODI3OC01MGY2LWI2ZGYtZmRhYTViMjc2ZDFlGAAgACgAMI2dn5efLjii1IqEpS9AotSKhKUvShxvUFZraHdCUmJWNjVLQ1dSMitJT05IV29PdTg9WgBlAAAAAMI+AmAAEq0BCGASqAEKHFZnVzJhTk9tdm0wK09PR2NjL3JoVXZ4ZncrZz0SJGQzYzQ3OTJjLTViYjEtNDdlZi1iYzJiLWIzYmEwZDUyNTE3MBgAIAIoAjDhp42akDM4+ZfG7v4yQOGnjZqQM0ocZ1ZBUHdlL2kzMlZ4SjZORkZTdnJBOE1qSE1VPVofIh39ZGU1M0wvaVAzb1FvT1YzY3J4QVJpcWZ6YTBRPWWhibzqwj4CYAYSrgEIbRKpAQocUTZqa1V4Qk5wejAxQW5TUnh0UEdZLzFLSDNnPRIkYTU2ODlhMDQtZTgzNi00M2ViLThhNzMtZGU3NTY1ZDRhY2Y1GAAgAygDMKC597OVMzjR6PWzlTNA16v3s5UzShw5MVFtUzNxRjB6d2VpWUUxMHBYNTE4RmxtUHc9WiAiHv/qdjZGZG8vQ2VHUzBUWjRKVXZPSmRXN0UvMnh3PWU/Hzfwwj4CYAYSrAEITRKnAQocSE5MYTljYXg2RExpNm1kMTZDMXdYaElTWnhJPRIkZmM4YjdlYjktYjU2Ny00ZjMyLWIyZDAtNTM0Yjg2MTg1Y2RiGAAgASgBMJHErOf+Mjis4pTMzzJArOKUzM8yShxJaUF0YW44UzJPQUNWZi9LdmVqYzN4Z0pNMTg9Wh4iHGRKdDNmMW8wR0NnNFNOem1XbXF0OGFSY0JyVT1lkg71N8I+AmAAEo4BCAMSiQEKHG5qZ0R1ODhlQ3J2WHA4NnBEN2ZIR2NxRnA4OD0SJDNiNjQ4MmQ2LWY2ZDMtNTQxMy1hNDhiLTE1NjBlZGQ2ZDY3NxgAIAAoADDupJ+Xny44g9qKhKUvQIPaioSlL0oceXpOQjAxY241NEE3Y1JVMHVUKy9QZ21UdFVvPVoAZQAAAADCPgJgABKtAQhcEqgBChwwV0J0RGMwUFptMzlvbDhEU0g3bUV2U0tYTnM9EiQ5MTM2ZDRiMi1mYTUxLTQ1MmQtYWI1OC1hZmI3Y2E2MmZjZTUYACAEKAQwkMSs5/4yOOTw7q7vMkD7u/Cu7zJKHFV4aDdkclR1SXNUVnIrZDlpaFVyblpuWndJTT1aHyId9jJaTnpweFoxMENxWTRsNTNQVlYrMWxUbTFJaz1lWNDaIsI+AmAGEq4BCGoSqQEKHDlZZ1k4M0FkNEJGV0hCQWU5elkybU1GN0tzND0SJDIwOTYxYjJhLTc0YjItNDQxZi1iMTg2LTg3ZWQyYzNlYTliNRgAIAYoBjCMv6CylTM4trLk6JMzQOyxoLKVM0ocVndHNXhrbWM2NC9kVTE4REszTTZWdnhzQWVRPVogIh7/1VNhRmFRKzFkM0l0R0lxZEhDTlo0eUdQOG53az1l2wxo4MI+AmAGEo4BCAESiQEKHHl4Si82ZnZrZWNyN2twNUVRekI0dFdMcGRiRT0SJGZjMjFiODhmLTUxNjYtNWM4Yy04MDJjLWViNTUzOWEyZmNlORgAIAAoADCOm5+Xny44sNKKhKUvQLDSioSlL0ocYVJDV0xnaEY5YjVJbnFLSUR2dUovanZRa0ZjPVoAZQAAAADCPgJgABKuAQhnEqkBChxwbFlnZWU0dzY0SXNKbzNzYTFCNVNvMTN0QzQ9EiQwNTQwN2Y4NS00OWE1LTRlYWYtYmNlOS1mNTk0Y2M1MWNkMWQYACAPKA8w0Y/f9I4zOKSuhtGOM0CB8d70jjNKHGhVWXVMd0VEMmpjVWtuQ0ZaZ3gyQW4yZVI1UT1aICIe/6pTdHdzeXlDMVZtYVozbXdmK0tjbHEyV2pLTEU9ZdsMaODCPgJgBjAAOAA=",
    "version": 1
 }

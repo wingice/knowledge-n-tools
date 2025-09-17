@@ -1,0 +1,15 @@
+* Tips on Windows
+**  Softwares
+*** The List and purposes
+**** Stretchly - RSI
+
+
+*** Tips
+**** Stretchly
+- How to reset stretchly when locking the screen
+Create a **Task Scheduler** event trigger based on the event 'on workstation lock'
+
+1. Open **Task Scheduler**.
+2. Create a new task.
+3. In the **Triggers** tab, create a new trigger for **"Begin the task: On an event"**.
+4. In the **Actions** tab, add a new action to start your batch file. `stretchly long`
